@@ -1,2 +1,1 @@
-# pxtone-rs
-[WIP] Pxtone Collage decoder by Rust for WebAssembly
+This has been replaced by https://github.com/petamoriken/pxtone-rs
